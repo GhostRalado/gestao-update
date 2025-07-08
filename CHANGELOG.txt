@@ -1,0 +1,27 @@
+🚀 Atualização Disponível
+Versão: v1.2.3
+Data: 08/07/2025
+
+────────────────────────────────────────────
+
+🆕 Novidades:
+• Adicionado suporte a envio automático de recibos em PDF.
+• Nova tela de configuração para backup em nuvem.
+• Tema escuro aprimorado com melhor contraste visual.
+
+🐞 Correções:
+• Corrigido erro ao salvar Ordem de Serviço com desconto aplicado.
+• Filtro de busca de clientes agora funciona corretamente com múltiplos campos.
+• Correção de travamento ocasional na tela de vendas.
+
+🔧 Melhorias:
+• Otimização do tempo de carregamento inicial do sistema.
+• Refatoração interna para maior estabilidade e desempenho.
+• Ajustes no sistema de permissões de usuários.
+
+────────────────────────────────────────────
+
+📌 Observações:
+Esta atualização é obrigatória. Após aplicar, reinicie o sistema para garantir que todas as melhorias sejam carregadas corretamente.
+
+👨‍💻 Equipe de Desenvolvimento – GestãoEmpresarial Systems © 2025
