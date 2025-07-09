@@ -1,27 +1,31 @@
-🚀 Atualização Disponível
-Versão: v1.2.3
+🚀 Que Bom Seu software Foi Atualizado para
+Versão: 2.10.5.1
 Data: 08/07/2025
 
 ────────────────────────────────────────────
 
 🆕 Novidades:
-• Adicionado suporte a envio automático de recibos em PDF.
-• Nova tela de configuração para backup em nuvem.
-• Tema escuro aprimorado com melhor contraste visual.
+• Melhoria na Apresentação de Dados no PDF
+➤ Agora os campos informativos como Cliente, Equipamento, Modelo, 
+Marca e Observações são exibidos com palavras-chave em destaque (negrito),
+facilitando a leitura e identificação rápida dos dados.
 
+• Criada Nova Tela de Apresentação com Informações de Atualização.
+• Implementada inclusão do CPF do cliente em recibos de venda
+
+• “N/D”
 🐞 Correções:
-• Corrigido erro ao salvar Ordem de Serviço com desconto aplicado.
-• Filtro de busca de clientes agora funciona corretamente com múltiplos campos.
-• Correção de travamento ocasional na tela de vendas.
+• “N/D”
+• “N/D”
+• “N/D”
 
 🔧 Melhorias:
-• Otimização do tempo de carregamento inicial do sistema.
-• Refatoração interna para maior estabilidade e desempenho.
-• Ajustes no sistema de permissões de usuários.
-
+• “N/D”
+• “N/D”
+• “N/D”
 ────────────────────────────────────────────
 
 📌 Observações:
-Esta atualização é obrigatória. Após aplicar, reinicie o sistema para garantir que todas as melhorias sejam carregadas corretamente.
+• “N/D”
 
-👨‍💻 Equipe de Desenvolvimento – GestãoEmpresarial Systems © 2025
+👨‍💻 GestãoEmpresarial Systems © 2025
