@@ -1,31 +1,42 @@
 🚀 Que Bom Seu software Foi Atualizado para
-Versão: 2.10.5.2
-Data: 08/07/2025
+Versão: 2.10.5.5
+Data: 21/07/2025
 
 ────────────────────────────────────────────
 
 🆕 Novidades:
-• Melhoria na Apresentação de Dados no PDF
-➤ Agora os campos informativos como Cliente, Equipamento, Modelo, 
-Marca e Observações são exibidos com palavras-chave em destaque (negrito),
-facilitando a leitura e identificação rápida dos dados.
+• Ajuste visual no nome de usuário exibido no topo:
+➤ Agora suporta quebra de linha e, quando o nome for muito grande, será exibido com reticências (...) 
+   e um tooltip com o nome completo ao passar o mouse.
 
-• Criada Nova Tela de Apresentação com Informações de Atualização.
-• Implementada inclusão do CPF do cliente em recibos de venda
+• Menu principal reformulado:
+➤ Os textos dos menus principais agora aparecem em letras maiúsculas para melhor padronização visual.
+➤ No submenu Cadastro foram adicionadas opções como:
+→ Gerenciar Clientes
+→ Gerenciar Colaboradores
+→ Entre outros.
+➤ No submenu Pesquisa foram adicionadas opções como:
+→ Consultar Clientes
+→ Consultar Colaboradores
+→ Entre outros.
 
-• “N/D”
+• Integração entre menu e cabeçalho:
+➤ Ao clicar, por exemplo, em Gerenciar Clientes, a tela correspondente é aberta e o cabeçalho exibe 
+   “Gerenciar Clientes”, reforçando a navegação e contexto.
+
 🐞 Correções:
-• “N/D”
+• Ajuste no layout para exibição adequada de nomes longos de usuário.
 • “N/D”
 • “N/D”
 
 🔧 Melhorias:
+• Padronização visual dos textos dos menus.
+• Integração visual entre menu e cabeçalho.
 • “N/D”
-• “N/D”
-• “N/D”
+
 ────────────────────────────────────────────
 
 📌 Observações:
-• “N/D”
+• Para melhor usabilidade, o nome do usuário agora possui tooltip em casos de corte.
 
 👨‍💻 GestãoEmpresarial Systems © 2025
