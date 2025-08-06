@@ -1,42 +1,37 @@
-🚀 Que Bom Seu software Foi Atualizado para
-Versão: 2.10.5.5
-Data: 21/07/2025
+🚀 Que Bom! Seu software Foi Atualizado para 
+Versão: 2.10.10.5
+Data: 06/08/2025
 
 ────────────────────────────────────────────
 
 🆕 Novidades:
-• Ajuste visual no nome de usuário exibido no topo:
-➤ Agora suporta quebra de linha e, quando o nome for muito grande, será exibido com reticências (...) 
-   e um tooltip com o nome completo ao passar o mouse.
+• Configuração de Conexão: A string de conexão do banco de dados foi atualizada,
+  para melhorar a performance e a estabilidade das conexões.
+➤ Mensagens de Erro Aprimoradas: Adicionada uma mensagem amigável para o usuário 
+   quando ocorrerem erros de conexão, facilitando a identificação e resolução de problemas.
 
-• Menu principal reformulado:
-➤ Os textos dos menus principais agora aparecem em letras maiúsculas para melhor padronização visual.
-➤ No submenu Cadastro foram adicionadas opções como:
-→ Gerenciar Clientes
-→ Gerenciar Colaboradores
-→ Entre outros.
-➤ No submenu Pesquisa foram adicionadas opções como:
-→ Consultar Clientes
-→ Consultar Colaboradores
-→ Entre outros.
+• “N/D
+➤ “N/D
+→ “N/D
+→ “N/D
 
-• Integração entre menu e cabeçalho:
-➤ Ao clicar, por exemplo, em Gerenciar Clientes, a tela correspondente é aberta e o cabeçalho exibe 
-   “Gerenciar Clientes”, reforçando a navegação e contexto.
 
 🐞 Correções:
-• Ajuste no layout para exibição adequada de nomes longos de usuário.
+• Tratamento de Erros de Conexão: Implementados blocos try/catch na classe de conexão
+  para garantir um tratamento mais robusto de exceções e evitar que a aplicação trave 
+  em caso de falhas de conexão.
 • “N/D”
 • “N/D”
 
 🔧 Melhorias:
-• Padronização visual dos textos dos menus.
-• Integração visual entre menu e cabeçalho.
+• Robustez do Sistema: Aumentada a resiliência do sistema com a implementação 
+  de verificações de erro na string de conexão e tratamento de exceções.
+• “N/D”
 • “N/D”
 
 ────────────────────────────────────────────
 
 📌 Observações:
-• Para melhor usabilidade, o nome do usuário agora possui tooltip em casos de corte.
+• As melhorias na conexão visam proporcionar uma experiência mais fluida e confiável para todos os usuários.
 
 👨‍💻 GestãoEmpresarial Systems © 2025
