@@ -1,37 +1,38 @@
-🚀 Que Bom! Seu software Foi Atualizado para 
-Versão: 2.10.10.5
-Data: 06/08/2025
-
-────────────────────────────────────────────
+🚀 Que Bom! Seu software Foi Atualizado para
+Versão: 2.10.10.8
+Data: 03/09/2025
 
 🆕 Novidades:
-• Configuração de Conexão: A string de conexão do banco de dados foi atualizada,
-  para melhorar a performance e a estabilidade das conexões.
-➤ Mensagens de Erro Aprimoradas: Adicionada uma mensagem amigável para o usuário 
-   quando ocorrerem erros de conexão, facilitando a identificação e resolução de problemas.
+•Sistema de Impressão Modernizado
+Nova Tecnologia de Impressão: Substituímos o antigo método de impressão, que tirava uma "foto" 
+da tela, por um sistema que gera documentos profissionais (FlowDocument). 
+Isso garante recibos e relatórios 100% fiéis aos dados do banco de dados.
 
-• “N/D
-➤ “N/D
-→ “N/D
-→ “N/D
+•Qualidade Profissional: Os recibos são impressos com qualidade de vetor, 
+o que significa textos e gráficos perfeitamente nítidos em qualquer impressora.
 
+•Fidelidade de Dados: A reimpressão de recibos agora exibe o vendedor 
+e os dados exatos do momento da transação, não do usuário atualmente logado.
 
-🐞 Correções:
-• Tratamento de Erros de Conexão: Implementados blocos try/catch na classe de conexão
-  para garantir um tratamento mais robusto de exceções e evitar que a aplicação trave 
-  em caso de falhas de conexão.
-• “N/D”
-• “N/D”
+•Paginação Automática: Relatórios longos são divididos em várias páginas de forma inteligente e automática.
 
-🔧 Melhorias:
-• Robustez do Sistema: Aumentada a resiliência do sistema com a implementação 
-  de verificações de erro na string de conexão e tratamento de exceções.
-• “N/D”
-• “N/D”
+•Layout e Design dos Recibos
+Identidade Visual: O logo da empresa agora é exibido no cabeçalho de todos os recibos.
 
-────────────────────────────────────────────
+•Layout Aprimorado: O cabeçalho foi redesenhado para um alinhamento preciso das informações da empresa, do logo e dos detalhes da transação.
+
+🐞 Correções e Melhorias:
+•Acesso a Dados (DAL)
+Carregamento Completo: Corrigimos um problema onde informações importantes (como nome do cliente e vendedor) 
+não eram carregadas completamente em transações antigas, garantindo que a reimpressão mostre todos os dados corretamente.
+
+•Refatoração da Lógica: A lógica de impressão foi ajustada para usar a classe RRelatorioReciboDAL, 
+o que simplifica o código e otimiza a geração dos relatórios.
+
+•Propriedades Calculadas: Adicionamos propriedades inteligentes aos modelos de dados para formatar 
+endereços e calcular totais de forma consistente em todo o sistema.
 
 📌 Observações:
-• As melhorias na conexão visam proporcionar uma experiência mais fluida e confiável para todos os usuários.
+As melhorias visam proporcionar uma experiência de impressão mais confiável, profissional e alinhada com a arquitetura do sistema.
 
 👨‍💻 GestãoEmpresarial Systems © 2025
